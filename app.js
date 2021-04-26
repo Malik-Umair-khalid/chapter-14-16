@@ -103,3 +103,33 @@
 
 //  *** Q : 10 ***
 
+// var score1 = +prompt("Enter The 1 Score")
+// var score2 = +prompt("Enter The 2 Score")
+// var score3 = +prompt("Enter The 3 Score")
+// var score4 = +prompt("Enter The 4 Score")
+// var score5 = +prompt("Enter The 5 Score")
+// var score6 = +prompt("Enter The 6 Score")
+
+// var scores = [score1 , score2 , score3 , score4 , score5 , score6]
+// scores.sort()
+// alert(scores)
+
+// //  *** Q : 11 ***
+
+// var city1 = prompt("Enter City 1 Name")
+// var city2 = prompt("Enter City 2 Name")
+// var city3 = prompt("Enter City 3 Name")
+// var city4 = prompt("Enter City 4 Name")
+// var city5 = prompt("Enter City 5 Name")
+// var city6 = prompt("Enter City 6 Name")
+
+// var cities = [city1 , city2 , city3 , city4 , city5 , city6]
+
+// // *** Q : 15 ***
+// var phones = ["Smasung" , "Motorola" , "Nokia" , "Sony" , "Haier"]
+// document.write('<select>' )
+// document.write( '<option>' + phones[0] + '</option>')
+// document.write( '<option>' + phones[1] + '</option>')
+// document.write( '<option>' + phones[2] + '</option>')
+// document.write( '<option>' + phones[3] + '</option>')
+// document.write( '<option>' + phones[4] + '</option>' + '</select>')
